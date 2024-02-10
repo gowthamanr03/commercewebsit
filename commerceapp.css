@@ -1,0 +1,109 @@
+.bg-container-fstpage{
+    background-image: url('https://res.cloudinary.com/do1jbdg0b/image/upload/v1707475509/79-791740_green-blur-hd-background_nexp7z.jpg');
+    background-size: cover;
+}
+
+.main-fst-box{
+    color: white;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.para-for-fst-box{
+    color: white;
+    padding-left: 20px;
+}
+
+.bg-container-aboutpage{
+    background-image: url('https://res.cloudinary.com/do1jbdg0b/image/upload/v1707475509/79-791740_green-blur-hd-background_nexp7z.jpg');
+    height: 35vh;
+}
+
+.card-about{
+    height: 20vh;
+    width: 20vw;
+    margin: auto;
+    margin-top: 10vh;
+    border-color: rgb(6, 153, 6);
+    border-width: 10px;
+    border-style: solid;
+    background-size: cover;
+}
+
+.box-names-types{
+    font-weight: bold ;
+    font-size: 20px;
+    text-align: center;
+}
+
+.button-email-box{
+    border-radius: 6px;
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+    opacity: 1;
+    background-color: white;
+    width: 50vh;
+    height: 7vh;
+    padding-left: 20px;
+}
+
+.button-email-box:hover{
+    opacity: 0.50;    
+    border-color: white;
+    background-color: transparent;
+}    
+
+.card-products-box{
+    height: auto;
+    padding: 10px;
+    margin-bottom: 20px;
+    padding-left: auto;
+    transition: all 900ms;
+}
+
+.card-products-box:hover{
+    border-color: gray;
+    border-radius: 3px;
+    border-style: solid;
+    margin: 25px;
+}
+
+.button-contnt-add-cart{
+    border-color: rgb(36, 201, 36);
+    border-radius: 6px;
+    border-style: solid;
+    background-color: transparent;
+    height: 6vh;
+}
+
+.button-contnt-add-cart:hover{
+    background-color:rgb(73, 215, 73) ;
+}
+
+.button-contnt-add-name-box{
+    font-size: 15px; 
+    color: rgb(36, 201, 36); 
+    padding: 8px;
+    padding-top: 10px;
+}
+
+.button-contnt-add-name-box:hover{
+    color: white;
+    font-size: 18px;
+}
+
+.shapoo-hover{
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.bg-container-howtouse{
+    background-image: url('https://res.cloudinary.com/do1jbdg0b/image/upload/v1707475509/79-791740_green-blur-hd-background_nexp7z.jpg');
+    height: 45vh;
+}
+
+.bg-container-testimonial{
+    background-image: url('https://res.cloudinary.com/do1jbdg0b/image/upload/v1707475509/79-791740_green-blur-hd-background_nexp7z.jpg');
+    height: 60vh;
+}
